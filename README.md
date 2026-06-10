@@ -10,3 +10,6 @@ Then run the app via the terminal
 ```
 streamlit run app.py
 ```
+Descriptions are written in the summary.pdf file. 
+
+Thanks for reading!
